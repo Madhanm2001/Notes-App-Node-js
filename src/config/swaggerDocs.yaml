@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: Expense tracker API
+  title: Notes App API
   version: 1.0.0
   description: API documentation for Notes App
 
